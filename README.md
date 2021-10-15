@@ -1,3 +1,5 @@
 # sliit-workshop
 
-This is for SLIIT workshop
+This is a workshop for SLIIT.
+
+Conducted by Codegen.
